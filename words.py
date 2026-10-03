@@ -1,4 +1,4 @@
-word_list=["machine","learning","python",
+word_list=["machine","learning","pyth",
           "artificial","intelligence","visual",
           "studio","dictionary","laptop","hangman",
           "project","terminal","abdulkalam","temple",
